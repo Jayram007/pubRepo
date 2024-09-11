@@ -1,0 +1,13 @@
+package com.ExpenceManager.expencemanager;
+
+import org.junit.jupiter.api.Test;
+import org.springframework.boot.test.context.SpringBootTest;
+
+@SpringBootTest
+class ExpencemanagerApplicationTests {
+
+	@Test
+	void contextLoads() {
+	}
+
+}
